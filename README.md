@@ -13,7 +13,7 @@ This project explores the effect of replacing Softmax with Sparsemax in the atte
 Softmax performs soft aggregation, while Sparsemax enforces hard selection, fundamentally changing attention behavior.
 
 ## Visual Results
-(Insert your heatmaps here)
+![Attention Comparison](images/sparsemax_vs_softmax_heatmap.png)
 
 ## Files
 - Transformer-SparseMax.ipynb → Implementation
