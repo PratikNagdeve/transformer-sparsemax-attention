@@ -1,4 +1,3 @@
-# transformer-sparsemax-attention
 
 # Transformer Attention: Softmax vs Sparsemax
 
